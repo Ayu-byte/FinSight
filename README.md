@@ -115,6 +115,24 @@ Persona and student selection define the global analysis context. Month, categor
 
 The dashboard reads the generated CSV files directly, so MySQL is not required for visualization.
 
+## Screenshots
+
+| Overview | Budget |
+| --- | --- |
+| ![Overview](docs/screenshots/00-full-overview.png) | ![Budget](docs/screenshots/01-budget.png) |
+
+| Trends | Anomalies |
+| --- | --- |
+| ![Trends](docs/screenshots/02-trends.png) | ![Anomalies](docs/screenshots/03-anomalies.png) |
+
+| Benchmarking | Recurring |
+| --- | --- |
+| ![Benchmarking](docs/screenshots/04-benchmarking.png) | ![Recurring](docs/screenshots/05-recurring.png) |
+
+| Savings Planner |
+| --- |
+| ![Savings Planner](docs/screenshots/06-savings-planner.png) |
+
 ## MySQL Setup
 
 Create a local .env file from .env.example and configure credentials:
