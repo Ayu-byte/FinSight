@@ -1,0 +1,101 @@
+user_id,name,username,email,password,persona,monthly_income,spending_habit,payment_preference,monthly_transactions
+1,Ayushi Agarwal,ayushiagarwal802,ayushiagarwal802@gmail.com,password123,Hostel Student,10475,Balanced,Debit Card,45
+2,Aditi Patel,aditipatel12,aditipatel12@gmail.com,password123,Hostel Student,13303,Balanced,Debit Card,58
+3,Advait Pillai,advaitpillai819,advaitpillai819@gmail.com,password123,Hostel Student,14360,Balanced,Debit Card,48
+4,Aisha Shetty,aishashetty58,aishashetty58@gmail.com,password123,Hostel Student,14998,Balanced,Debit Card,49
+5,Akash Naidu,akashnaidu949,akashnaidu949@gmail.com,password123,Hostel Student,10888,Balanced,Debit Card,50
+6,Ananya Kapoor,ananyakapoor68,ananyakapoor68@gmail.com,password123,Hostel Student,12384,Impulsive,Debit Card,37
+7,Anika Kulkarni,anikakulkarni235,anikakulkarni235@gmail.com,password123,Hostel Student,8087,Impulsive,Debit Card,38
+8,Arjun Verma,arjunverma990,arjunverma990@gmail.com,password123,Hostel Student,14497,Balanced,UPI,55
+9,Avni Ghosh,avnighosh654,avnighosh654@gmail.com,password123,Hostel Student,12006,Balanced,Debit Card,49
+10,Dev Menon,devmenon160,devmenon160@gmail.com,password123,Hostel Student,10647,Balanced,UPI,39
+11,Diya Chatterjee,diyachatterjee510,diyachatterjee510@gmail.com,password123,Hostel Student,10905,Impulsive,UPI,58
+12,Esha Gupta,eshagupta298,eshagupta298@gmail.com,password123,Hostel Student,10077,Impulsive,Debit Card,43
+13,Ishaan Saxena,ishaansaxena859,ishaansaxena859@gmail.com,password123,Hostel Student,8423,Impulsive,UPI,49
+14,Kabir Iyer,kabiriyer358,kabiriyer358@gmail.com,password123,Hostel Student,13040,Balanced,UPI,49
+15,Kavya Rao,kavyarao152,kavyarao152@gmail.com,password123,Hostel Student,8691,Impulsive,UPI,41
+16,Krish Malhotra,krishmalhotra294,krishmalhotra294@gmail.com,password123,Hostel Student,9657,Impulsive,UPI,57
+17,Meera Agarwal,meeraagarwal719,meeraagarwal719@gmail.com,password123,Hostel Student,14045,Balanced,UPI,51
+18,Naina Jain,nainajain361,nainajain361@gmail.com,password123,Hostel Student,14323,Impulsive,UPI,45
+19,Neha Mehta,nehamehta819,nehamehta819@gmail.com,password123,Hostel Student,12851,Impulsive,Debit Card,49
+20,Nikhil Joshi,nikhiljoshi678,nikhiljoshi678@gmail.com,password123,Hostel Student,14311,Balanced,Debit Card,60
+21,Pranav Khan,pranavkhan438,pranavkhan438@gmail.com,password123,Day Scholar,4112,Balanced,Cash,33
+22,Priya Desai,priyadesai267,priyadesai267@gmail.com,password123,Day Scholar,6800,Frugal,Cash,26
+23,Rahul Reddy,rahulreddy199,rahulreddy199@gmail.com,password123,Day Scholar,3451,Balanced,UPI,30
+24,Riya Banerjee,riyabanerjee728,riyabanerjee728@gmail.com,password123,Day Scholar,4877,Balanced,Cash,29
+25,Rohan Singh,rohansingh882,rohansingh882@gmail.com,password123,Day Scholar,3811,Balanced,Cash,36
+26,Saanvi Bhat,saanvibhat684,saanvibhat684@gmail.com,password123,Day Scholar,4568,Frugal,Cash,27
+27,Sahil Nair,sahilnair75,sahilnair75@gmail.com,password123,Day Scholar,5326,Frugal,UPI,31
+28,Simran Das,simrandas684,simrandas684@gmail.com,password123,Day Scholar,7442,Balanced,UPI,27
+29,Tanvi Bose,tanvibose22,tanvibose22@gmail.com,password123,Day Scholar,6932,Balanced,UPI,37
+30,Vihaan Mishra,vihaanmishra640,vihaanmishra640@gmail.com,password123,Day Scholar,7083,Frugal,Cash,36
+31,Yash Sharma,yashsharma316,yashsharma316@gmail.com,password123,Day Scholar,3145,Balanced,UPI,28
+32,Zara Patel,zarapatel545,zarapatel545@gmail.com,password123,Day Scholar,7717,Frugal,UPI,40
+33,Ahan Pillai,ahanpillai241,ahanpillai241@gmail.com,password123,Day Scholar,5178,Balanced,UPI,31
+34,Ira Shetty,irashetty857,irashetty857@gmail.com,password123,Day Scholar,7807,Frugal,Cash,32
+35,Kunal Naidu,kunalnaidu195,kunalnaidu195@gmail.com,password123,Day Scholar,5659,Balanced,UPI,30
+36,Mihir Kapoor,mihirkapoor15,mihirkapoor15@gmail.com,password123,Day Scholar,4548,Frugal,Cash,32
+37,Navya Kulkarni,navyakulkarni234,navyakulkarni234@gmail.com,password123,Day Scholar,4048,Frugal,UPI,38
+38,Parth Verma,parthverma276,parthverma276@gmail.com,password123,Day Scholar,5472,Frugal,Cash,30
+39,Rudra Ghosh,rudraghosh249,rudraghosh249@gmail.com,password123,Day Scholar,6924,Balanced,Cash,26
+40,Sanya Menon,sanyamenon278,sanyamenon278@gmail.com,password123,Day Scholar,5320,Balanced,Cash,33
+41,Aarav Chatterjee,aaravchatterjee140,aaravchatterjee140@gmail.com,password123,Budget Student,9312,Frugal,UPI,33
+42,Aditi Gupta,aditigupta451,aditigupta451@gmail.com,password123,Budget Student,7174,Frugal,UPI,26
+43,Advait Saxena,advaitsaxena770,advaitsaxena770@gmail.com,password123,Budget Student,9428,Frugal,UPI,30
+44,Aisha Iyer,aishaiyer839,aishaiyer839@gmail.com,password123,Budget Student,8046,Frugal,UPI,31
+45,Akash Rao,akashrao713,akashrao713@gmail.com,password123,Budget Student,5645,Frugal,UPI,23
+46,Ananya Malhotra,ananyamalhotra412,ananyamalhotra412@gmail.com,password123,Budget Student,9904,Frugal,UPI,35
+47,Anika Agarwal,anikaagarwal724,anikaagarwal724@gmail.com,password123,Budget Student,8862,Frugal,UPI,23
+48,Arjun Jain,arjunjain643,arjunjain643@gmail.com,password123,Budget Student,7202,Frugal,UPI,26
+49,Avni Mehta,avnimehta616,avnimehta616@gmail.com,password123,Budget Student,6603,Frugal,UPI,33
+50,Dev Joshi,devjoshi447,devjoshi447@gmail.com,password123,Budget Student,6902,Frugal,UPI,28
+51,Diya Khan,diyakhan720,diyakhan720@gmail.com,password123,Budget Student,8286,Frugal,UPI,35
+52,Esha Desai,eshadesai201,eshadesai201@gmail.com,password123,Budget Student,5532,Frugal,UPI,24
+53,Ishaan Reddy,ishaanreddy878,ishaanreddy878@gmail.com,password123,Budget Student,8685,Frugal,UPI,20
+54,Kabir Banerjee,kabirbanerjee376,kabirbanerjee376@gmail.com,password123,Budget Student,9700,Frugal,UPI,34
+55,Kavya Singh,kavyasingh200,kavyasingh200@gmail.com,password123,Budget Student,8334,Frugal,UPI,25
+56,Krish Bhat,krishbhat326,krishbhat326@gmail.com,password123,Tech Enthusiast,14027,Balanced,Debit Card,41
+57,Meera Nair,meeranair931,meeranair931@gmail.com,password123,Tech Enthusiast,13450,Balanced,Debit Card,37
+58,Naina Das,nainadas806,nainadas806@gmail.com,password123,Tech Enthusiast,10949,Balanced,Debit Card,38
+59,Neha Bose,nehabose263,nehabose263@gmail.com,password123,Tech Enthusiast,12360,Balanced,UPI,34
+60,Nikhil Mishra,nikhilmishra475,nikhilmishra475@gmail.com,password123,Tech Enthusiast,15815,Balanced,UPI,35
+61,Pranav Sharma,pranavsharma366,pranavsharma366@gmail.com,password123,Tech Enthusiast,19771,Balanced,UPI,40
+62,Priya Patel,priyapatel631,priyapatel631@gmail.com,password123,Tech Enthusiast,11793,Balanced,UPI,36
+63,Rahul Pillai,rahulpillai160,rahulpillai160@gmail.com,password123,Tech Enthusiast,17661,Balanced,Debit Card,39
+64,Riya Shetty,riyashetty601,riyashetty601@gmail.com,password123,Tech Enthusiast,13542,Balanced,UPI,45
+65,Rohan Naidu,rohannaidu28,rohannaidu28@gmail.com,password123,Tech Enthusiast,13104,Balanced,Debit Card,41
+66,Saanvi Kapoor,saanvikapoor342,saanvikapoor342@gmail.com,password123,Fitness Enthusiast,11411,Balanced,UPI,38
+67,Sahil Kulkarni,sahilkulkarni22,sahilkulkarni22@gmail.com,password123,Fitness Enthusiast,8414,Balanced,UPI,26
+68,Simran Verma,simranverma593,simranverma593@gmail.com,password123,Fitness Enthusiast,11291,Balanced,UPI,37
+69,Tanvi Ghosh,tanvighosh153,tanvighosh153@gmail.com,password123,Fitness Enthusiast,7766,Balanced,UPI,39
+70,Vihaan Menon,vihaanmenon67,vihaanmenon67@gmail.com,password123,Fitness Enthusiast,9219,Balanced,UPI,34
+71,Yash Chatterjee,yashchatterjee835,yashchatterjee835@gmail.com,password123,Fitness Enthusiast,11380,Balanced,UPI,40
+72,Zara Gupta,zaragupta654,zaragupta654@gmail.com,password123,Fitness Enthusiast,7817,Balanced,UPI,27
+73,Ahan Saxena,ahansaxena53,ahansaxena53@gmail.com,password123,Fitness Enthusiast,8559,Balanced,UPI,35
+74,Ira Iyer,iraiyer528,iraiyer528@gmail.com,password123,Fitness Enthusiast,7580,Balanced,UPI,36
+75,Kunal Rao,kunalrao273,kunalrao273@gmail.com,password123,Fitness Enthusiast,7213,Balanced,UPI,27
+76,Mihir Malhotra,mihirmalhotra344,mihirmalhotra344@gmail.com,password123,Traveler,13016,Balanced,UPI,33
+77,Navya Agarwal,navyaagarwal935,navyaagarwal935@gmail.com,password123,Traveler,10233,Balanced,UPI,40
+78,Parth Jain,parthjain608,parthjain608@gmail.com,password123,Traveler,12205,Balanced,UPI,33
+79,Rudra Mehta,rudramehta970,rudramehta970@gmail.com,password123,Traveler,9590,Balanced,UPI,31
+80,Sanya Joshi,sanyajoshi169,sanyajoshi169@gmail.com,password123,Traveler,13366,Balanced,Debit Card,44
+81,Aarav Khan,aaravkhan908,aaravkhan908@gmail.com,password123,Traveler,11524,Balanced,UPI,42
+82,Aditi Desai,aditidesai56,aditidesai56@gmail.com,password123,Traveler,8271,Balanced,Debit Card,38
+83,Advait Reddy,advaitreddy989,advaitreddy989@gmail.com,password123,Traveler,10022,Balanced,UPI,37
+84,Aisha Banerjee,aishabanerjee752,aishabanerjee752@gmail.com,password123,Traveler,10699,Balanced,UPI,38
+85,Akash Singh,akashsingh72,akashsingh72@gmail.com,password123,Traveler,13754,Balanced,UPI,39
+86,Ananya Bhat,ananyabhat233,ananyabhat233@gmail.com,password123,Shopaholic,10474,Impulsive,Debit Card,39
+87,Anika Nair,anikanair827,anikanair827@gmail.com,password123,Shopaholic,13929,Impulsive,Debit Card,55
+88,Arjun Das,arjundas846,arjundas846@gmail.com,password123,Shopaholic,17384,Impulsive,Debit Card,36
+89,Avni Bose,avnibose942,avnibose942@gmail.com,password123,Shopaholic,14539,Impulsive,Debit Card,42
+90,Dev Mishra,devmishra30,devmishra30@gmail.com,password123,Shopaholic,14084,Impulsive,UPI,39
+91,Diya Sharma,diyasharma107,diyasharma107@gmail.com,password123,Shopaholic,10431,Impulsive,Debit Card,50
+92,Esha Patel,eshapatel642,eshapatel642@gmail.com,password123,Shopaholic,11070,Impulsive,UPI,36
+93,Ishaan Pillai,ishaanpillai371,ishaanpillai371@gmail.com,password123,Shopaholic,17596,Impulsive,UPI,37
+94,Kabir Shetty,kabirshetty611,kabirshetty611@gmail.com,password123,Shopaholic,15928,Impulsive,Debit Card,47
+95,Kavya Naidu,kavyanaidu152,kavyanaidu152@gmail.com,password123,Shopaholic,13305,Impulsive,Debit Card,54
+96,Krish Kapoor,krishkapoor157,krishkapoor157@gmail.com,password123,Working Student,12278,Balanced,Debit Card,40
+97,Meera Kulkarni,meerakulkarni271,meerakulkarni271@gmail.com,password123,Working Student,17103,Balanced,Debit Card,38
+98,Naina Verma,nainaverma71,nainaverma71@gmail.com,password123,Working Student,21942,Balanced,Debit Card,27
+99,Neha Ghosh,nehaghosh263,nehaghosh263@gmail.com,password123,Working Student,18902,Balanced,UPI,28
+100,Nikhil Menon,nikhilmenon212,nikhilmenon212@gmail.com,password123,Working Student,19315,Balanced,Debit Card,31

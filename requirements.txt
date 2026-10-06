@@ -1,0 +1,8 @@
+﻿pandas
+numpy
+faker
+streamlit
+plotly
+mysql-connector-python
+python-dotenv
+pytest
